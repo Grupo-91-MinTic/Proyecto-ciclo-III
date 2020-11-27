@@ -1,4 +1,4 @@
-# semana-1-91
+# Proyecto ciclo III: Semana 1, Grupo 91
 
 Proyecto colaborativo del ciclo III de MinTic 20/22
 
