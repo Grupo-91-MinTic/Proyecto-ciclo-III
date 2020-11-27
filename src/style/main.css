@@ -23,3 +23,16 @@
     width: 80%;
     margin: 10% auto 10% auto;
 }
+
+footer {
+    padding: 15%;
+    margin-top: 2%;
+    background: black;
+}
+
+.footer--img {
+    width: 10%;
+    height: 30%;
+    margin-left: 15%;
+    display: inline-block;
+}
