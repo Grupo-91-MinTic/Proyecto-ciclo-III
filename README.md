@@ -10,5 +10,5 @@ Integrantes & roles:
 * Carlos Sneider Soto Sogamoso (Main Backend Developer)
 * Harold Alejandro Caicedo Martinez (Frontend Developer)
 
-[Reto del sprint](doc/Proyecto Sprint I.pdf)
+[Reto del sprint](doc/Proyecto_Sprint_I.pdf)
 
