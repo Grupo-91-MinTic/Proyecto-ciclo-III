@@ -98,11 +98,13 @@ tc3 -> team__content #3
 }
 
 .team .tc--h {
+    color: darkslategray;
     text-align: center;
 }
 
 .team .tc--p {
     width: 80%;
+    color: darkslategray;
     margin: 10% auto 10% auto;
 }
 
