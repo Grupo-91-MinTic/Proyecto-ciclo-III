@@ -48,6 +48,39 @@ nav -> Menu
     white-space: nowrap;
 }
 
+/* Estilos sección Servicios
+*/
+.servicios {
+    display: grid;
+    grid-gap: 1.5rem;
+    padding-left: 1%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    grid-template-columns: 32% 32% 32%;
+}
+.ser_con{
+    background: lightblue;
+}
+.servicios_img {
+    width: 60%;
+    height: 40%;
+    display: block;
+    margin: 5% auto 5% auto;
+}
+.ser_title{
+    color: darkslategray;
+    text-align: center;
+}
+.ser_p{
+    color: darkslategray;
+    text-align: justify;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    
+}
+
 /*
 nw# -> Noticia número #
 */
